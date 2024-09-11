@@ -1,15 +1,15 @@
 body {
   padding: 0;
-  background-color: slategray;
-  color: navajowhite;
+  background-color: rgb(201, 26, 26);
+  color: rgb(17, 16, 16);
 }
 
 h1 {
-  color: orange;
+  color: rgb(7, 3, 3);
 }
 
 figure {
-  max-width: 80%;
+  max-width: 82%;
   text-align: center;
 }
 
